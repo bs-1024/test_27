@@ -4,3 +4,4 @@ num = 2
 
 print("woshisunbiao")
 
+print(num)
